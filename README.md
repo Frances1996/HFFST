@@ -1,2 +1,2 @@
-# A Multi-Level Feature Fusion Algorithm for Gene Expression Prediction Using Histopathology Images
+# MFFST
 The code will be released after acceptance of the manuscript.
