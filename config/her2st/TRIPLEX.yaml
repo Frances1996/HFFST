@@ -1,0 +1,51 @@
+
+
+GENERAL:
+  seed: 3407
+  log_path: ./logs
+  
+TRAINING:
+  num_k: 8
+  batch_size: 128
+  loss: MSE
+  optimizer: adam
+  learning_rate: 1.0e-4
+  num_epochs: 200
+  early_stopping:
+    monitor: R
+    patience: 10
+    mode: max
+  
+MODEL:
+  name: HFFST 
+  num_genes: 250
+  emb_dim: 512
+  depth_t: 4
+  depth_n: 5
+  depth_s: 1
+  depth_f: 1
+  num_heads_t: 4
+  num_heads_n: 8
+  num_heads_s: 4
+  num_heads_f: 8
+  mlp_ratio_t: 4.0
+  mlp_ratio_n: 4.0
+  mlp_ratio_s: 4.0
+  mlp_ratio_f: 4.0
+  dropout_t: 0.3
+  dropout_n: 0.3
+  dropout_s: 0.3
+  dropout_f: 0.4
+  kernel_size: 3
+  learning_rate: 0.0001
+  backbone: 'resnet34'
+  backbone_weights: /home/HFFST/weights/resnet34-b627a593.pth
+
+DATASET:
+  # data_dir: /home/HFFST/dataset
+  data_dir: dataset
+  type: her2st
+  num_neighbors: 5
+  t_global_dir: 'gt_features_224'
+  neighbor_dir: 'n_features'
+  radius: 224
