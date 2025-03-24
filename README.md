@@ -1,2 +1,2 @@
-# HFFST
-The code will be released after acceptance of the manuscript.
+# HFFST: A Hierarchical Feature Fusion Algorithm for Spatial Gene Expression Prediction using Histopathology Images
+
