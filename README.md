@@ -3,4 +3,5 @@ We propose HFFST, a hierarchical feature fusion algorithm for predicting spatial
 ![Overall_Structure](https://github.com/user-attachments/assets/3b881213-6239-4bf0-9b31-0f18c8d34189)
 
 ## Pretrained model
-The relevant pretrained models can be downloaded from <https://pan.baidu.com/s/1v0g9T3WrqBzKpYI-Rlz9HA>
+The relevant pretrained models can be downloaded from <https://pan.baidu.com/s/1v0g9T3WrqBzKpYI-Rlz9HA>, extraction code is ss87
+
