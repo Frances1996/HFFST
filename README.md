@@ -8,6 +8,16 @@ The relevant pretrained models can be downloaded from <https://pan.baidu.com/s/1
 
 
 
-This implementation is based on [TRIPLEX](https://github.com/NEXGEM/TRIPLEX).  
-Original authors: Youngmin Chung, Ji Hun Ha, Kyeong Chan Im, Joo Sang Lee.  
-License: MIT.  
+## Code Reference & Citation  
+This implementation is based on the publicly available code from [TRIPLEX](https://github.com/NEXGEM/TRIPLEX).  
+The original work is described in the paper:  
+
+@inproceedings{chung2024accurate,
+  title={Accurate Spatial Gene Expression Prediction by integrating Multi-resolution features},
+  author={Chung, Youngmin and Ha, Ji Hun and Im, Kyeong Chan and Lee, Joo Sang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11591--11600},
+  year={2024}
+}
+
+We appreciate the authors for sharing their code and research.  
