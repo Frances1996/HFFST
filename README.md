@@ -9,5 +9,5 @@ The relevant pretrained models can be downloaded from <https://pan.baidu.com/s/1
 
 
 This implementation is based on [TRIPLEX](https://github.com/NEXGEM/TRIPLEX).  
-Original authors: [Youngmin Chung, Ji Hun Ha, Kyeong Chan Im, Joo Sang Lee].  
+Original authors: Youngmin Chung, Ji Hun Ha, Kyeong Chan Im, Joo Sang Lee.  
 License: MIT.  
