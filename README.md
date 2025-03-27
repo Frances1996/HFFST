@@ -5,6 +5,7 @@ We propose HFFST, a hierarchical feature fusion algorithm for predicting spatial
 ## Pretrained model
 The relevant pretrained models can be downloaded from <https://pan.baidu.com/s/1v0g9T3WrqBzKpYI-Rlz9HA>, extraction code is ss87
 
+## implementation
 This implementation is based on [TRIPLEX](https://github.com/NEXGEM/TRIPLEX).  
 Original authors: [Youngmin Chung, Ji Hun Ha, Kyeong Chan Im, Joo Sang Lee].  
 License: MIT.  
