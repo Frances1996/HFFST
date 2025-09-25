@@ -10,8 +10,6 @@ We propose HFFST, a hierarchical feature fusion algorithm for predicting spatial
 
 ## Code Reference & Citation  
 This implementation is based on the publicly available code from [TRIPLEX](https://github.com/NEXGEM/TRIPLEX).  
-The original work is described in the paper:  
-
 @inproceedings{chung2024accurate,
   title={Accurate Spatial Gene Expression Prediction by integrating Multi-resolution features},
   author={Chung, Youngmin and Ha, Ji Hun and Im, Kyeong Chan and Lee, Joo Sang},
@@ -19,5 +17,4 @@ The original work is described in the paper:
   pages={11591--11600},
   year={2024}
 }
-
 We appreciate the authors for sharing their code and research.  
