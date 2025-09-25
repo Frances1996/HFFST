@@ -3,10 +3,9 @@ We propose HFFST, a hierarchical feature fusion algorithm for predicting spatial
 
 
 ## Structure
-  "'
-  markdown
-  ![The overall structure](https://imgur.com/a/pMnO06f)
-  '"
+
+]('Overall_Structure_2.jpg')
+
 
 
 ## Code Reference & Citation  
