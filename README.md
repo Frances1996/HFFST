@@ -16,5 +16,5 @@ This implementation is based on the publicly available code from [TRIPLEX](https
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={11591--11600},
   year={2024}
-}
+}  
 We appreciate the authors for sharing their code and research.  
